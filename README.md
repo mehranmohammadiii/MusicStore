@@ -34,7 +34,7 @@
 -   **BLL (لایه منطق تجاری / سرویس):** "مغز" اپلیکیشن. مسئول اعتبارسنجی، قوانین تجاری و هماهنگی بین لایه‌های UI و DAL.
 -   **DAL (لایه دسترسی به داده):** تنها لایه‌ای که با دیتابیس ارتباط برقرار می‌کند. مسئول اجرای کوئری‌های SQL و Stored Procedure ها.
 
-![دیاگرام معماری](_assets/architecture-diagram.png)
+![دیاگرام معماری](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/_%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%A7%D9%85_.drawio%20(1).png?raw=true)
 *(اینجا دیاگرام فوق‌العاده‌ای که ساختی را قرار بده!)*
 
 ### ۲. **الگوی طراحی تزریق وابستگی (Dependency Injection)**
