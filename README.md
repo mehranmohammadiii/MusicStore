@@ -146,3 +146,22 @@ Here are some screenshots showcasing the application's user interface.
 | ![Bestsellers Report](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/Bestsellers%20Report.png) | ![New Order Form](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/New%20Order%20Form.png) |
 
 ---
+
+## 🤝 Contribution
+
+Pull requests are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to open an issue to discuss what you would like to change or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you found this project interesting or it helped you learn something new, please consider giving it a ⭐ on GitHub! Your support is greatly appreciated.
+
+---
+
+## 👨‍💻 Author
+
+Developed with ❤️ by **Mehran Mohammadi**.
+
+-   **GitHub:** [github.com/mehranmohammadiii](https://github.com/mehranmohammadiii)
+-   **LinkedIn:** [linkedin.com/in/mehran-mohammadi-ceo](https://www.linkedin.com/in/mehran-mohammadi-ceo)
