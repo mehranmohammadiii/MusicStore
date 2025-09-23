@@ -75,3 +75,61 @@ Chinook-Desktop-App/
 ├── config.ini              # External database configuration file for easy setup
 └── README.md               # You are here!
 ---
+
+## 🛠️ Getting Started: Installation & Usage
+
+This guide provides instructions for both end-users who just want to run the application and developers who want to work with the code.
+
+### 🅰️ For End-Users (The Easy Way)
+
+This method is for anyone who wants to run the application without dealing with the source code.
+
+**1. Download the Application:**
+- Go to the **[Releases](https://github.com/mehranmohammadiii/MusicStore)** page of this repository.
+- Find the latest version (e.g., `v1.0.0`) and download the `MusicStore_v1.0.zip` .
+
+**2. Prerequisites:**
+- **Database:** You need access to a SQL Server instance with the **Chinook** database restored on it.
+- **Driver:** Install the official Microsoft ODBC Driver for SQL Server. This is a small, one-time installation.
+  - **[Download Link for ODBC Driver 17](https://aka.ms/msodbcsql17)**
+
+**3. Configuration and Execution:**
+- **Unzip** the downloaded `MusicStore_v1.0.zip` file. You will find three items inside: `main.exe`, `config.ini`, and `README.txt`.
+- Open the `config.ini` file with a text editor (like Notepad).
+- Enter your own SQL Server connection details (Server name, Database name, etc.).
+- Save and close the `config.ini` file.
+- Double-click `main.exe` to run the application and enjoy!
+
+### 🅱️ For Developers (The Advanced Way)
+
+This method is for developers who want to run the source code, inspect it, or contribute to the project.
+
+**1. Clone the Repository:**
+```bash
+git clone https://github.com/mehranmohammadiii/MusicStore.git
+cd MusicStore
+
+**2. Create and Activate a Virtual Environment:**
+A virtual environment is highly recommended to keep dependencies isolated.
+# Create the environment
+python -m venv venv
+
+# Activate it
+# On Windows (PowerShell/CMD):
+.\venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
+**3. Install Required Packages:**
+All dependencies are listed in the requirements.txt file.
+pip install -r requirements.txt
+
+**4. Configure the Database:**
+Ensure the Chinook database is running on your SQL Server instance and is accessible.
+Edit the config.ini file with your server details, just like the end-users.
+
+**5. Run the Application:**
+python main.py
+
+
