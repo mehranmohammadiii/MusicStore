@@ -112,7 +112,7 @@ This method is for developers who want to run the source code, inspect it, or co
 git clone https://github.com/mehranmohammadiii/MusicStore.git  
 cd MusicStore
 
-**2. Create and Activate a Virtual Environment:  **
+**2. Create and Activate a Virtual Environment:**  
 A virtual environment is highly recommended to keep dependencies isolated.  
 Create the environment  
 python -m venv venv
