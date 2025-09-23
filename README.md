@@ -114,14 +114,14 @@ cd MusicStore
 
 **2. Create and Activate a Virtual Environment:**
 A virtual environment is highly recommended to keep dependencies isolated.
-# Create the environment
+Create the environment
 python -m venv venv
 
-# Activate it
-# On Windows (PowerShell/CMD):
+ Activate it
+On Windows (PowerShell/CMD):
 .\venv\Scripts\activate
 
-# On macOS/Linux:
+On macOS/Linux:
 source venv/bin/activate
 
 **3. Install Required Packages:**
