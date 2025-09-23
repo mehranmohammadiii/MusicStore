@@ -55,11 +55,13 @@ The database connection string is not hard-coded. It is read from an external `c
 The entire application is packaged into a single, standalone **`.exe` file** using `PyInstaller`, making it easy to distribute and run on any Windows machine.
 
 ---
+
 ## 📦 Project Structure
 
 The project follows a standardized and scalable structure, making it easy to navigate and maintain.
 
 ```plaintext
+
 Chinook-Desktop-App/
 │
 ├── MyPackage/
@@ -74,6 +76,7 @@ Chinook-Desktop-App/
 ├── requirements.txt        # A list of all required Python packages for the project
 ├── config.ini              # External database configuration file for easy setup
 └── README.md               # You are here!
+
 ---
 
 ## 🛠️ Getting Started: Installation & Usage
