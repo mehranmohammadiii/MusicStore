@@ -13,8 +13,8 @@ A fully-functional desktop application for managing the Chinook Music Store, bui
 
 *A brief demonstration of the application's core functionalities, including navigation, data retrieval, and the responsive UI.*
 
-![App Demo GIF](https://raw.githubusercontent.com/mehranmohammadiii/MusicStore/main/_assets/demo.gif)
-_**(Please replace this with your own GIF's raw URL after uploading!)**_
+![App Demo GIF](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/_%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%A7%D9%85_.drawio%20(1).png)
+
 
 ---
 
