@@ -133,4 +133,16 @@ Edit the config.ini file with your server details, just like the end-users.
 **5. Run the Application:**  
 python main.py
 
+## 🖼️ Gallery
 
+Here are some screenshots showcasing the application's user interface.
+
+| Login Screen | Main Dashboard |
+| :---: | :---: |
+| ![Login Screen](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/Login%20Screen.png) | ![Main Dashboard](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/Main%20Dashboard.png) |
+
+| Bestsellers Report | New Order Form |
+| :---: | :---: |
+| ![Bestsellers Report](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/Bestsellers%20Report.png) | ![New Order Form](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/New%20Order%20Form.png) |
+
+---
