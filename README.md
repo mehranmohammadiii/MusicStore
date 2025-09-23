@@ -122,15 +122,15 @@ On Windows (PowerShell/CMD):
 On macOS/Linux:  
 source venv/bin/activate
 
-**3. Install Required Packages:**
-All dependencies are listed in the requirements.txt file.
+**3. Install Required Packages:**  
+All dependencies are listed in the requirements.txt file.  
 pip install -r requirements.txt
 
-**4. Configure the Database:**
-Ensure the Chinook database is running on your SQL Server instance and is accessible.
+**4. Configure the Database:**  
+Ensure the Chinook database is running on your SQL Server instance and is accessible.  
 Edit the config.ini file with your server details, just like the end-users.
 
-**5. Run the Application:**
+**5. Run the Application:**  
 python main.py
 
 
