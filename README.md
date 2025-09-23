@@ -77,6 +77,7 @@ Chinook-Desktop-App/
 ├── config.ini              # External database configuration file for easy setup
 └── README.md               # You are here!
 
+```
 ---
 
 ## 🛠️ Getting Started: Installation & Usage
