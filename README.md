@@ -109,7 +109,7 @@ This method is for anyone who wants to run the application without dealing with 
 This method is for developers who want to run the source code, inspect it, or contribute to the project.
 
 **1. Clone the Repository:**
-git clone https://github.com/mehranmohammadiii/MusicStore.git
+git clone https://github.com/mehranmohammadiii/MusicStore.git  
 cd MusicStore
 
 **2. Create and Activate a Virtual Environment:**
