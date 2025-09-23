@@ -36,8 +36,7 @@ The application is strictly divided into three logical layers to ensure separati
 -   **BLL (Business Logic / Service Layer):** The "brain" of the application. It handles validation, business rules, and orchestrates calls between the UI and DAL.
 -   **DAL (Data Access Layer):** The only layer that communicates with the database. It is responsible for executing SQL queries and Stored Procedures.
 
-![Architecture Diagram](https://raw.githubusercontent.com/mehranmohammadiii/MusicStore/main/_assets/architecture-diagram.png)
-_**(Please replace this with your own diagram's raw URL after uploading!)**_
+![Architecture Diagram]([https://raw.githubusercontent.com/mehranmohammadiii/MusicStore/main/_assets/architecture-diagram.png](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/_%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%D8%A7%D9%85_.drawio%20(1).png))
 
 ### 2. **Dependency Injection (DI) Pattern**
 Instead of using a global Singleton, the database connection manager is created once at application startup and **injected** into the service layer, which then injects it into the data access layer. This makes the code:
