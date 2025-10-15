@@ -21,6 +21,8 @@ Here are some screenshots showcasing the application's user interface.
 | :---: | :---: |
 | ![Bestsellers Report](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/Bestsellers%20Report.png) | ![New Order Form](https://github.com/mehranmohammadiii/MusicStore/blob/master/APP/MyPackage/UI/Images/New%20Order%20Form.png) |
 
+**Project link on LinkedIn:** [linkedin.com/in/mehran-mohammadi-ceo](https://www.linkedin.com/posts/mehran-mohammadi-ceo_python-softwarearchitecture-softwareengineering-activity-7375792661800075264-CSlb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEwH1a0BGKsjNhnLzWNd2eE1tPo4YlxnGT4)
+
 ---
 
 
